@@ -1,0 +1,7 @@
+HOST = 'https://merchant-api.jet.com/'
+USER = '703096779B2A29FD5800D76B3BBB33EFE3F7DD2C'
+PASS = 'IxuOKghHQSCDTGpkk55I9wPQ1vDwtTtJi62xHZumBVMf'
+
+PRODUCT_CODE_TYPE_LIST = (
+    ('UPC', 'UPC'),
+)
